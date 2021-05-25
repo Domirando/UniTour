@@ -526,7 +526,7 @@ ul{
     font-family: Mulish;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 36px;
     color: #000000;
     /* width: 62%; */
@@ -584,7 +584,7 @@ ul{
   margin-top: 10px;
 }
 .about__unitour{
-  margin-top: 150px;
+  margin-top: 15px;
 }
 .section--5__content{
   background-image: url(./images/unitour.png);
@@ -598,10 +598,13 @@ ul{
 .section--5__h1{
   margin-top: 180px;
   font-size: 35px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.section--5__register > .about__unitour{
+  font-size: 20px;
 }
 .section--5__register {
     font-size: 24px;
